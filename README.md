@@ -16,7 +16,7 @@
 ### 📊 GitHub Activity
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=transparent&hide_border=true&title_color=1F8ACB&icon_color=1F8ACB" alt="GitHub Stats" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=prajwalccc13&show_icons=true&theme=transparent&hide_border=true&title_color=1F8ACB&icon_color=1F8ACB" alt="GitHub Stats" width="48%" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=prajwalccc13&layout=compact&theme=transparent&hide_border=true&title_color=1F8ACB" alt="Top Languages" width="48%" />
 </div>
 
