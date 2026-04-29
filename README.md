@@ -1,26 +1,19 @@
-<div align="center">
-  <h1>Hi, I'm Prajwal! 🤖</h1>
-  <p>AI/ML Engineer | Sydney, AU | LLMs & Deep Learning</p>
-  
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/prajwal-chaudhary/)
-  [![Portfolio](https://img.shields.io/badge/Portfolio-Visit-black?style=flat-square&logo=vercel)](https://prajwalccc13.github.io/)
-</div>
+# Prajwal Chaudhary
+**AI/ML Engineer specializing in LLM systems, multi-agent pipelines, and deep learning.**
 
-<br/>
+📍 Sydney, Australia | ✉️ [prajwalc133@gmail.com](mailto:prajwalc133@gmail.com) | 🔗 [LinkedIn](link) | 🔗 [Portfolio](link)
 
-### ⚙️ What I'm Working On
-- Architecting **Auto Agent ML**, an autonomous multi-agent system for end-to-end ML pipelines.
-- Building a **Multi-Modal RAG Chatbot** using FAISS, BM25, and cross-encoder reranking.
-- Researching **AI-driven robotics automation** at Macquarie University.
+---
 
-### 📊 GitHub Activity
+| 🚀 Featured Projects | 🛠️ Core Technologies |
+| :--- | :--- |
+| **[Auto Agent ML](link)**<br>Architected a multi-agent system automating the full ML pipeline (EDA, training, evaluation) driven by LLM-generated Python code. | **AI & Machine Learning:**<br>PyTorch, TensorFlow, Scikit-Learn, Reinforcement Learning |
+| **[Multi-Modal RAG Chatbot](link)**<br>Fully local RAG with hybrid search (FAISS + BM25), reciprocal rank fusion, and hallucination gating via cross-encoders. | **GenAI & Search:**<br>LLMs, RAG, FAISS, Multi-Agent Systems |
+| **Robotics Research (Macquarie Univ)**<br>Investigated AI-driven automation for real-world robot manipulation and real-time video processing. | **Backend & Data:**<br>Python, FastAPI, Streamlit, SQLite, MongoDB |
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=prajwalccc13&show_icons=true&theme=transparent&hide_border=true&title_color=1F8ACB&icon_color=1F8ACB" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=prajwalccc13&layout=compact&theme=transparent&hide_border=true&title_color=1F8ACB" alt="Top Languages" width="48%" />
-</div>
+---
 
-### 🛠️ Core Stack
-**Languages:** Python, C, R  
-**Frameworks:** PyTorch, TensorFlow, FastAPI, Scikit-Learn  
-**Specialties:** LLMs, RAG, Multi-Agent Systems, Computer Vision
+### 🎓 Education & Publications
+* **Master of IT in Artificial Intelligence** — Macquarie University
+* **Bachelor of Computer Engineering** — Nepal Engineering College
+* *Published:* Deep Learning CNN Models for Diseases Classification in Cauliflower Leaves (2025)
