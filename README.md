@@ -1,28 +1,26 @@
-# Prajwal Chaudhary
-> AI/ML Engineer | LLM Systems | Deep Learning | Data Science
+<div align="center">
+  <h1>Hi, I'm Prajwal! 🤖</h1>
+  <p>AI/ML Engineer | Sydney, AU | LLMs & Deep Learning</p>
+  
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/prajwal-chaudhary/)
+  [![Portfolio](https://img.shields.io/badge/Portfolio-Visit-black?style=flat-square&logo=vercel)](https://prajwalccc13.github.io/)
+</div>
 
-```console
-$ cat about.txt
-Based in Sydney, Australia. Master of IT in Artificial Intelligence.
-Specializing in end-to-end ML systems, from data preprocessing 
-through model deployment.
+<br/>
 
-$ ls -l /current_projects
-drwxr-xr-x  Auto_Agent_ML      (Multi-agent ML pipeline automated by LLMs)
-drwxr-xr-x  Local_RAG_Chatbot  (Hybrid FAISS+BM25 search with reranking)
-drwxr-xr-x  Robotics_Research  (AI-driven robot manipulation using PyTorch)
+### ⚙️ What I'm Working On
+- Architecting **Auto Agent ML**, an autonomous multi-agent system for end-to-end ML pipelines.
+- Building a **Multi-Modal RAG Chatbot** using FAISS, BM25, and cross-encoder reranking.
+- Researching **AI-driven robotics automation** at Macquarie University.
 
-$ cat tech_stack.json
-{
-  "languages": ["Python", "C", "R"],
-  "ml_frameworks": ["PyTorch", "TensorFlow", "Scikit-Learn"],
-  "ai_focus": ["LLMs", "RAG", "Multi-Agent Pipelines", "Computer Vision"],
-  "backend": ["FastAPI", "SQLite", "FAISS"]
-}
+### 📊 GitHub Activity
 
-$ ./ping_me.sh
-Email: prajwalc133@gmail.com
-LinkedIn: [https://www.linkedin.com/in/prajwal-chaudhary/]
-Portfolio: [https://prajwalccc13.github.io/]
-Kaggle: [https://www.kaggle.com/prajwalchaudhary]
-```
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=transparent&hide_border=true&title_color=1F8ACB&icon_color=1F8ACB" alt="GitHub Stats" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=prajwalccc13&layout=compact&theme=transparent&hide_border=true&title_color=1F8ACB" alt="Top Languages" width="48%" />
+</div>
+
+### 🛠️ Core Stack
+**Languages:** Python, C, R  
+**Frameworks:** PyTorch, TensorFlow, FastAPI, Scikit-Learn  
+**Specialties:** LLMs, RAG, Multi-Agent Systems, Computer Vision
