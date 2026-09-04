@@ -1,6 +1,6 @@
 ```python
 """
-Prajwal Chaudhary - AI/ML Engineering Module
+Prajwal Chaudhary - AI/ML Engineering 
 ============================================
 
 Architecting multi-agent pipelines, local RAG systems, and deep learning 
