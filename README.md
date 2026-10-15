@@ -18,10 +18,12 @@ stack : dict[str, list[str]]
         'frontend':  ['Flutter'],
         'backend':   ['Django', 'FastAPI', 'Firebase'],
         'ml':        ['PyTorch', 'TensorFlow', 'FAISS'],
+        'cloud':     ['Azure', 'Firebase'],
         'tools':     ['Git', 'GitHub'],
     }
-currently : str
-    Building a Django REST API + Flutter job-application tracker.
+certifications : list[str]
+    ['Microsoft Certified: Azure Fundamentals',
+     'Google Advanced Data Analytics Certificate']
 open_to : str
     Graduate and junior Software Engineer roles in Sydney.
 
@@ -49,6 +51,10 @@ Online Retail Dashboard : Python / Streamlit
 | **Multi-Modal RAG** | Local RAG chatbot | [Code](https://github.com/prajwalccc13/rag-search) |
 | **AutoAgentML** | Multi-agent AutoML pipeline | [Code](https://github.com/prajwalccc13/AutoAgentML) |
 | **Online Retail Dashboard** | Streamlit analytics dashboard | [Code](https://github.com/prajwalccc13/online-retail-dashboard) |
+
+### Certifications
+
+[Microsoft Certified: Azure Fundamentals](https://learn.microsoft.com/api/credentials/share/en-us/PrajwalChaudhary/3D439FDAC0903179?sharingId=3F5A9443692EA07) · Google Advanced Data Analytics Certificate
 
 ### Contact
 
