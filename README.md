@@ -2,7 +2,7 @@
 Prajwal Chaudhary - Software Engineer
 =====================================
 
-I build and ship full products: Python backends, Flutter apps, and the
+I build and ship full products: Flutter apps, Python backends, and the
 ML features that sit on top of them, from first commit to live deployment.
 
 Attributes
@@ -19,6 +19,8 @@ stack : dict[str, list[str]]
         'ml':        ['PyTorch', 'TensorFlow', 'FAISS'],
         'tools':     ['Git', 'GitHub'],
     }
+currently : str
+    Building a Django REST API + Flutter job-application tracker.
 open_to : str
     Graduate and junior Software Engineer roles in Sydney.
 
