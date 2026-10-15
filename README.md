@@ -1,3 +1,4 @@
+```python
 """
 Prajwal Chaudhary - Software Engineer
 =====================================
@@ -38,3 +39,17 @@ AutoAgentML : Python
 Online Retail Dashboard : Python / Streamlit
     Interactive sales analytics dashboard built on real retail data.
 """
+```
+
+### Projects
+
+| Project | What it is | Links |
+|---|---|---|
+| **Subbies** | Flutter subscription tracker | [Code](https://github.com/prajwalccc13/subbies) · [Live demo](https://subbies-app.web.app/demo) |
+| **Multi-Modal RAG** | Local RAG chatbot | [Code](https://github.com/prajwalccc13/rag-search) |
+| **AutoAgentML** | Multi-agent AutoML pipeline | [Code](https://github.com/prajwalccc13/AutoAgentML) |
+| **Online Retail Dashboard** | Streamlit analytics dashboard | [Code](https://github.com/prajwalccc13/online-retail-dashboard) |
+
+### Contact
+
+[Email](mailto:prajwalc133@gmail.com) · [LinkedIn](https://www.linkedin.com/in/prajwal-chaudhary/) · [Portfolio](https://prajwalccc13.github.io/)
