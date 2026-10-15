@@ -3,7 +3,7 @@
 Prajwal Chaudhary - Software Engineer
 =====================================
 
-I build and ship full products: Flutter apps, Python backends, and the
+I build and ship full products: Python backends, Flutter apps,  and the
 ML features that sit on top of them, from first commit to live deployment.
 
 Attributes
